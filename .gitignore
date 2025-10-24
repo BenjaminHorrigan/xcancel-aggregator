@@ -8,3 +8,5 @@ __pycache__/
 .python-version
 # tooling
 .DS_Store
+
+usernames.txt
